@@ -68,7 +68,7 @@ document.querySelectorAll('.main-nav a').forEach((link) => link.addEventListener
 document.querySelectorAll('.print-resume').forEach((button) => {
   button.addEventListener('click', () => {
     window.open(
-      'https://drive.google.com/file/d/1_azDS6twXcE8CE6ycoYWFCRwhXxJieWX/view?pli=1',
+      'https://drive.google.com/file/d/1WOvNNYVFAG_g5BVAswhEGzY4Rs-LJj0M/view?usp=sharing',
       '_blank',
       'noopener,noreferrer'
     );
